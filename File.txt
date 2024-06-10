@@ -1,0 +1,3 @@
+Hi this is the new git assignment,
+clone the git repository
+push the git repository using vs
