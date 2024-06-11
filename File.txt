@@ -1,3 +1,5 @@
 Hi this is the new git assignment,
 clone the git repository
+add file in the folder
+make changes in the file
 push the git repository using vs
